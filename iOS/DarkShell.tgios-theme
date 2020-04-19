@@ -318,15 +318,15 @@ chat:
       withWp: ffffff
       withoutWp: ffffff
   inputPanel:
-    panelBg: 181818
-    panelSeparator: 232323
+    panelBg: 1c1c1c
+    panelSeparator: 1c1c1c
     panelControlAccent: 959595
     panelControl: 7f959595
     panelControlDisabled: 7f90979f
     panelControlDestructive: ff6767
-    inputBg: 161616
-    inputStroke: 262626
-    inputPlaceholder: 66959595
+    inputBg: 1c1c1c
+    inputStroke: 1c1c1c
+    inputPlaceholder: 66505050
     inputText: ffffff
     inputControl: 66959595
     actionControlBg: 959595
@@ -339,16 +339,16 @@ chat:
       micLevel: 33959595
       activeIcon: ffffff
   inputMediaPanel:
-    panelSeparator: 252525
+    panelSeparator: 1f1f1f
     panelIcon: 7f959595
     panelHighlightedIconBg: 161616
-    stickersBg: 1a1a1a
+    stickersBg: 1f1f1f
     stickersSectionText: 7f959595
     stickersSearchBg: 161616
     stickersSearchPlaceholder: 575757
     stickersSearchPrimary: ffffff
     stickersSearchControl: 575757
-    gifsBg: 1a1a1a
+    gifsBg: 1f1f1f
   inputButtonPanel:
     panelBg: 131313
     panelSeparator: 252525
