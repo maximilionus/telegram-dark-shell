@@ -51,7 +51,7 @@
 | Windows      | True      | True       | `1.0`       |
 | Linux        | True      | False      | `1.0`       |
 | macOS        | True      | False      | `1.0`       |
-| iOS          | True      | True       | `1.0`       |
+| iOS          | True      | True       | `1.1`       |
 | Android      | True      | False      | `1.0`       |
 
 > If you have tested this theme on non-tested platforms, please let me know about it through this repo [Issues][github-issue-new] *(Attach the <ins>label</ins>: `platform-tested`)*
