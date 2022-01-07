@@ -3,10 +3,10 @@
 	by <a href="https://github.com/maximilionus">@maximilionus</a><h>
 </div>
 <hr>
-<details align="center">
-	<summary><b><ins>Preview Screenshot</ins></b></summary>
-	<img src=".github/preview.jpg">
-</details>
+<p align="center" >
+    <b>Preview Screenshot</b>
+    <img src=".github/preview.jpg">
+</p>
 
 # Main Information
 - **Dark Shell** is a minimalistic dark mode theme for Telegram clients on Windows, Linux, macOS, iOS, Android.
@@ -48,13 +48,13 @@
 # Development Status
 | **Platform** | **Ready** | **Tested** | **Version** |
 | :----------- | :-------- | :--------- | :---------- |
-| Windows      | True      | True       | `1.0`       |
-| Linux        | True      | False      | `1.0`       |
+| Windows      | True      | True       | `1.1`       |
+| Linux        | True      | False      | `1.1`       |
 | macOS        | True      | False      | `1.0`       |
 | iOS          | True      | True       | `1.1`       |
-| Android      | True      | False      | `1.0`       |
+| Android      | True      | False      | `2.0`       |
 
-> If you have tested this theme on non-tested platforms, please let me know about it through this repo [Issues][github-issue-new] *(Attach the <ins>label</ins>: `platform-tested`)*
+> If you have tested this theme on non-tested platforms, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
 
 <!-- REFERENCE LINKS -->
 [telegram-theme-shared-link]: https://t.me/addtheme/DarkShell (Telegram Theme Shared Link)
@@ -62,4 +62,3 @@
 [macOS-latest-release]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.palette (Download the latest release for macOS)
 [iOS-latest-release]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.tgios-theme (Download the latest release for iOS)
 [android-latest-release]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.attheme (Download the latest release for Android)
-[github-issue-new]: https://github.com/maximilionus/Telegram-Dark-Shell/issues/new (Create new issue)

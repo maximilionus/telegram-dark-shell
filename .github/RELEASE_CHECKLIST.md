@@ -7,7 +7,7 @@
 2. Update [VERSIONS_ARCHIVE.md](../VERSIONS_ARCHIVE.md) :
    - Change old versions link from `*/releases/latest/download/*` to `*/releases/{tagname}/download/*`
    - Add new version with link to `*/releases/latest/download/*`
-3. Commit and Create new tag. Name sample: `build-ddmmyyyyhhmm`
+3. Commit and Create new tag. Name sample: `release-ddmmyyyyhhmm`
 4. Push tag to remote and create **release**
 5. Attach <ins>ALL</ins> theme files *(Even if they don't have any changes)* to release to make `*/releases/latest/download/*` work properly
 6. Well done, mate 👏. Give yourself a cookie 🍪.

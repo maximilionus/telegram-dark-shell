@@ -2,7 +2,7 @@
 // Contact Email: maximilionuss@gmail.com
 
 windowBg: #181818;
-windowFg: #ffffff;
+windowFg: #f4f4f4;
 windowBgOver: #282828;
 windowBgRipple: #404040;
 windowFgOver: #ffffff;
@@ -54,9 +54,9 @@ menuBgOver: windowBgOver;
 menuBgRipple: windowBgRipple;
 menuIconFg: #a7a7a7;
 menuIconFgOver: #ffffff;
-menuSubmenuArrowFg: #373737;
+menuSubmenuArrowFg: windowFg;
 menuFgDisabled: #cccccc;
-menuSeparatorFg: #f1f1f1;
+menuSeparatorFg: windowBgOver;
 
 scrollBarBg: #a7a7a753;
 scrollBarBgOver: #ffffff7a;
