@@ -13,7 +13,8 @@
 - This repository contains all source files and releases for this theme.
 
 # Installation
-- [**Universal Link**][telegram-theme-shared-link] for any supported device ([device check](./README.md#Development-Status))
+## [**Install Link**][telegram-theme-shared-link] for any supported device ([device check](./README.md#Development-Status))
+
 - **Windows / Linux** *(Manual Install)* :
   1. [Download The Latest Release][tdesktop-latest-release] or select version from [Versions Archive](./VERSIONS_ARCHIVE.md).
   2. Open Telegram.
@@ -54,7 +55,7 @@
 | iOS          | True      | True       | `1.1`       |
 | Android      | True      | False      | `2.0`       |
 
-> If you have tested this theme on non-tested platforms, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
+> If you've tested this theme on non-tested platform, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
 
 <!-- REFERENCE LINKS -->
 [telegram-theme-shared-link]: https://t.me/addtheme/DarkShell (Telegram Theme Shared Link)
