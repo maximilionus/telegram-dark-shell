@@ -29,6 +29,7 @@
 ### Global Changes
 #### Changed
 - Preview screenshot updated to current state
+- Enhanced the `VERSIONS_ARCHIVE.md` readability
 
 #### Removed
 - Details tag from `README.md` for preview image. Now image will load automatically.
