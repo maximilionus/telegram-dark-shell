@@ -13,8 +13,9 @@
 - This repository contains all source files and releases for this theme.
 
 # Installation
-## [**Install Link**][telegram-theme-shared-link] for any supported device ([device check](./README.md#Development-Status))
+## [**Click to install**][telegram-theme-shared-link] this theme on any supported device *([devices list](./README.md#Development-Status))*
 
+## Or install it manually
 - **Windows / Linux** *(Manual Install)* :
   1. [Download The Latest Release][tdesktop-latest-release] or select version from [Versions Archive](./VERSIONS_ARCHIVE.md).
   2. Open Telegram.
@@ -28,9 +29,9 @@
 - **macOS** *(Manual Install)* :
   1. [Download The Latest Release][macOS-latest-release] or select version from [Versions Archive](./VERSIONS_ARCHIVE.md).
   2. Open Telegram and go to `Settings` -> `Appearance`.
-  3. Click on <img src=".github/setup_guide/icon_openHorizontalMenu.png" width=15> in upper-right corner of app and press `New theme`.
+  3. Press <img src=".github/setup_guide/icon_openHorizontalMenu.png" width=15> in upper-right corner of app and press `New theme`.
   4. Name it **Dark Shell** *(Or how you want to)* and press `Create`.<br>You'll be asked to save the theme file. Save it anywhere *(You can delete this file after that)*.
-  5. RMB click on created theme and click `Edit` -> `Update from file`
+  5. <kbd>RMB</kbd> click on created theme and click `Edit` -> `Update from file`
   6. Find and choose downloaded `.palette` file.
 - **iOS** *(Manual Install)* :
   1. [Download The Latest Release][iOS-latest-release] or select version from [Versions Archive](./VERSIONS_ARCHIVE.md).
@@ -49,11 +50,11 @@
 # Development Status
 | **Platform** | **Ready** | **Tested** | **Version** |
 | :----------- | :-------- | :--------- | :---------- |
-| Windows      | True      | True       | `1.1`       |
-| Linux        | True      | False      | `1.1`       |
-| macOS        | True      | False      | `1.0`       |
-| iOS          | True      | True       | `1.1`       |
-| Android      | True      | False      | `2.0`       |
+| Windows      | yes       | yes        | `1.1`       |
+| Linux        | yes       | yes        | `1.1`       |
+| macOS        | yes       | no         | `1.0`       |
+| iOS          | yes       | yes        | `1.1`       |
+| Android      | yes       | yes        | `2.1`       |
 
 > If you've tested this theme on non-tested platform, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
 
