@@ -14,6 +14,7 @@
 ### Global Changes
 #### Changed
 - Preview screenshot updated to current state
+- Created `github workflow` for automated post-release actions
 
 
 ## Update 2022.01.07
