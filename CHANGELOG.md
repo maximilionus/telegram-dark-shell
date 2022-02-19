@@ -12,9 +12,11 @@
 - Chat background image was updated and now will be displayed properly in cloud-synced theme
 
 ### Global Changes
+#### Added
+- Created `github workflow` for automated post-release actions
+
 #### Changed
 - Preview screenshot updated to current state
-- Created `github workflow` for automated post-release actions
 
 
 ## Update 2022.01.07

@@ -24,10 +24,7 @@ jobs:
 
       - name: move theme files to release dir
         run: |
-          mv $tdesktop_theme_path $release_dir_path
-          mv $android_theme_path $release_dir_path
-          mv $ios_theme_path $release_dir_path
-          mv $macos_theme_path $release_dir_path
+          mv -v -t $release_dir_path $tdesktop_theme_path $android_theme_path $ios_theme_path $macos_theme_path
 
       - name: attach files to release
         uses: AButler/upload-release-assets@v2.0
