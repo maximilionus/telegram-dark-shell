@@ -1,15 +1,23 @@
 # Dark Shell Telegram theme Changelog
 
-- [Dark Shell Telegram theme Changelog](#dark-shell-telegram-theme-changelog)
-  - [Update 2022.01.07](#update-20220107)
-    - [Android v2.0 Release](#android-v20-release)
-      - [Changed](#changed)
-    - [TDesktop v1.1 Release](#tdesktop-v11-release)
-      - [Fixed](#fixed)
-      - [Changed](#changed-1)
-    - [Global Changes](#global-changes)
-      - [Changed](#changed-2)
-      - [Removed](#removed)
+## Updates history
+- [Update 2022.02.19](#update-20220219)
+- [Update 2022.01.07](#update-20220107)
+
+
+## Update 2022.02.19
+### Android v2.1 Release
+#### Fixed
+- Media buttons will now be displayed correctly, not just white circles
+- Chat background image was updated and now will be displayed properly in cloud-synced theme
+
+### Global Changes
+#### Added
+- Created `github workflow` for automated post-release actions
+
+#### Changed
+- Preview screenshot updated to current state
+
 
 ## Update 2022.01.07
 ### Android v2.0 Release
