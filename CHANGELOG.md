@@ -5,6 +5,12 @@
 - [Update 2022.01.07](#update-20220107)
 
 
+## Update 2022.03.XX
+### TDesktop v1.2 Release
+#### Fixed
+- Title buttons color for inactive state now more consistent with title bar
+
+
 ## Update 2022.02.19
 ### Android v2.1 Release
 #### Fixed
