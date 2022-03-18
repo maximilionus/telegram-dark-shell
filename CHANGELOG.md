@@ -5,7 +5,7 @@
 - [Update 2022.01.07](#update-20220107)
 
 
-## Update 2022.03.XX
+## Update 2022.03.18
 ### TDesktop v1.2 Release
 #### Fixed
 - Title buttons color for inactive state now more consistent with title bar
