@@ -1,8 +1,21 @@
 # Dark Shell Telegram theme Changelog
 
 ## Updates history
+- [Update 2022.03.18](#update-20220318)
 - [Update 2022.02.19](#update-20220219)
 - [Update 2022.01.07](#update-20220107)
+
+
+## Update 2022.03.18
+### TDesktop v1.2 Release
+#### Fixed
+- Title buttons color for inactive state now more consistent with title bar
+
+### Global Changes
+#### Changed
+- Preview screenshot updated
+  - Reflect current state
+  - Fonts changed
 
 
 ## Update 2022.02.19

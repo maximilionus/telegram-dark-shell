@@ -90,10 +90,10 @@ tooltipFg: #5d6c80;
 tooltipBorderFg: #c9d1db;
 
 titleShadow: #25252540;
-titleBg: #202020;
-titleBgActive: #252525;
-titleButtonBg: titleBg;
-titleButtonFg: #ffffff;
+titleBg: #252525;
+titleBgActive: titleBg;
+titleButtonBg: lightButtonBg;
+titleButtonFg: #939393;
 titleButtonBgOver: #494949;
 titleButtonFgOver: #ffffff;
 titleButtonBgActive: titleBgActive;
