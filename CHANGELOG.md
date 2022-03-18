@@ -10,6 +10,12 @@
 #### Fixed
 - Title buttons color for inactive state now more consistent with title bar
 
+### Global Changes
+#### Changed
+- Preview screenshot updated
+  - Reflect current state
+  - Fonts changed
+
 
 ## Update 2022.02.19
 ### Android v2.1 Release
