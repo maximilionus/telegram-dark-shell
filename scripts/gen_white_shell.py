@@ -1,9 +1,17 @@
 """
 'White Shell' theme generator
 """
+from pathlib import Path
 from argparse import ArgumentParser
 
 from colour import Color
+
+
+PATH_PROJECT = Path(__file__).parent.parent
+PATH_TDESKTOP = PATH_PROJECT / Path('TDesktop/DarkShell.tdesktop-palette')
+PATH_MACOS = PATH_PROJECT / Path('macOS/DarkShell.palette')
+PATH_ANDROID = PATH_PROJECT / Path('Android/DarkShell.attheme')
+PATH_IOS = PATH_PROJECT / Path('iOS/DarkShell.tgios-theme')
 
 
 def invert_hex_rgb(hex_code: str) -> str:
@@ -29,25 +37,34 @@ def invert_hex_rgb(hex_code: str) -> str:
     return color.get_hex_l() + hex_alpha
 
 
-# Invert desktop theme test
-theme_plaintext_list = []
+def invert_desktop_theme():
+    path_for_result = PATH_TDESKTOP.parent / 'WhiteShell.tdesktop-palette'
 
-with open('../TDesktop/DarkShell.tdesktop-palette', 'rt') as theme_text_file, \
-     open('result.tdesktop-palette', 'wt') as theme_output_file:  # TODO: Replace hardcoded with consts. Adapt to cli usage this shitpost code
-    for line in theme_text_file:
-        line_split = line.split(': ')
+    with open(PATH_TDESKTOP, 'rt') as theme_text_file, \
+         open(path_for_result, 'wt') as theme_output_file:
+        for line in theme_text_file:
+            line_split = line.split(': ')
 
-        if len(line_split) == 2:
-            color_raw = line_split[1].rstrip().replace(';', '')
-            if color_raw.startswith('#'):
-                inverted_color = invert_hex_rgb(color_raw)
-                line = '{}: {};\n'.format(line_split[0], inverted_color)
+            if len(line_split) == 2:
+                color_raw = line_split[1].rstrip().replace(';', '')
+                if color_raw.startswith('#'):
+                    inverted_color = invert_hex_rgb(color_raw)
+                    line = '{}: {};\n'.format(line_split[0], inverted_color)
 
-        theme_output_file.write(line)
+            theme_output_file.write(line)
+
+    print('⌂ Successfully generated theme for TDesktop client, saved to "{}"'
+          .format(path_for_result))
 
 
-""" if __name__ == '__main__':
-    argparser = ArgumentParser(
-        description='Inverted theme generator for Dark Shell'
-    )
-    argparser.add_argument('') """
+if __name__ == '__main__':
+    argparser = ArgumentParser(description='White Shell theme generator for Dark Shell')
+    argparser.add_argument('client_variant', choices=['tdesktop', 'android', 'ios', 'macos'],
+                           help='Select the client for which the theme is intended')
+
+    args = argparser.parse_args()
+
+    if args.client_variant == 'tdesktop':
+        invert_desktop_theme()
+    else:
+        print('⌂ Not yet supported 😿')
