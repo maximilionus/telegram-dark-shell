@@ -24,7 +24,7 @@
 
 # Installation
 ## Universal
-- [**Click to install** ☁️][telegram-theme-shared-link] this theme on any supported device with cloud sync support *([devices list](./README.md#Development-Status))*
+- [**Click to install** ☁️][telegram-theme-shared-link] this theme on any supported device *([list](./README.md#Development-Status))* with automatic updates feature
 > All new stable features and changes will be delivered much faster and will not be bound to releases
 
 ## Manual Install
