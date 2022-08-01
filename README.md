@@ -82,7 +82,7 @@ If you want to download a specific version of theme <ins>DON'T</ins> search for 
 | **Windows** / **Linux** | yes       | yes        | `1.2`       |
 | **macOS**               | yes       | no         | `1.0`       |
 | **iOS**                 | yes       | yes        | `1.1`       |
-| **Android**             | yes       | yes        | `2.1`       |
+| **Android**             | yes       | yes        | `2.2`       |
 
 > If you've tested this theme on non-tested platform, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
 
