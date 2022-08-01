@@ -1,7 +1,4 @@
-> There's some notes for me, u don't need to read this.  
-> *Btw:* What are you doing here? :D
-
-# Theme Update
+# Theme Update Procedure
 
 1. Make changes to any theme(-s)
 2. Update [VERSIONS_ARCHIVE.md](../VERSIONS_ARCHIVE.md) :
@@ -12,4 +9,4 @@
 5. Push tag to remote and create **release**
 6. ~~Attach <ins>ALL</ins> theme files *(Even if they don't have any changes)* to release to make `*/releases/latest/download/*` work properly~~
     > Files are now automatically attached to release with Github Actions
-7. Well done, mate 👏. Give yourself a cookie 🍪. I **DO** hope everything is working fine and no fixes are needed 🥵.
+7. That's all, watch and **pray** 👏
