@@ -15,14 +15,11 @@ windowFgActive: #181818;
 windowActiveTextFg: #ffffff;
 windowShadowFg: #000000bf;
 windowShadowFgFallback: #181818;
-
 shadowFg: #25252540;
 slideFadeOutBg: #0000003c;
 slideFadeOutShadowFg: windowShadowFg;
-
 imageBg: #181818;
 imageBgTransparent: #ffffff;
-
 activeButtonBg: #282828;
 activeButtonBgOver: #49494980;
 activeButtonBgRipple: #565656;
@@ -32,23 +29,19 @@ activeButtonSecondaryFg: #ffffff;
 activeButtonSecondaryFgOver: activeButtonSecondaryFg;
 activeLineFg: #ffffff;
 activeLineFgError: #e48383;
-
 lightButtonBg: #252525;
 lightButtonBgOver: #424242;
 lightButtonBgRipple: #565656;
 lightButtonFg: #ffffff;
 lightButtonFgOver: #ffffff;
-
 attentionButtonFg: #d14e4e;
 attentionButtonFgOver: #d14e4e;
 attentionButtonBgOver: #fcdfde;
 attentionButtonBgRipple: #f4c3c2;
-
 outlineButtonBg: windowBg;
 outlineButtonBgOver: lightButtonBgOver;
 outlineButtonOutlineFg: #ffffff;
 outlineButtonBgRipple: lightButtonBgRipple;
-
 menuBg: windowBg;
 menuBgOver: windowBgOver;
 menuBgRipple: windowBgRipple;
@@ -57,38 +50,29 @@ menuIconFgOver: #ffffff;
 menuSubmenuArrowFg: windowFg;
 menuFgDisabled: #cccccc;
 menuSeparatorFg: windowBgOver;
-
 scrollBarBg: #a7a7a753;
 scrollBarBgOver: #ffffff7a;
 scrollBg: #a7a7a71a;
 scrollBgOver: #ffffff2c;
-
 smallCloseIconFg: #a7a7a7;
 smallCloseIconFgOver: #ffffff;
-
 radialFg: #ffffff;
 radialBg: #00000056;
-
 placeholderFg: windowSubTextFg;
 placeholderFgActive: #a7a7a7;
-
 inputBorderFg: #ffffff;
-filterInputBorderFg: #181818;
-filterInputActiveBg: #202020;
+filterInputBorderFg: windowBg;
+filterInputActiveBg: #242424;
 filterInputInactiveBg: #101010;
 checkboxFg: #a7a7a7;
-
 botKbBg: menuBgOver;
 botKbDownBg: menuBgRipple;
 botKbColor: windowBoldFgOver;
-
 sliderBgInactive: #606060;
 sliderBgActive: #ffffff;
-
 tooltipBg: #eef2f5;
 tooltipFg: #5d6c80;
 tooltipBorderFg: #c9d1db;
-
 titleShadow: #25252540;
 titleBg: #252525;
 titleBgActive: titleBg;
@@ -110,18 +94,14 @@ titleButtonCloseBgActiveOver: titleButtonCloseBgOver;
 titleButtonCloseFgActiveOver: titleButtonCloseFgOver;
 titleFg: #a7a7a7;
 titleFgActive: #ffffff;
-
 trayCounterBg: #f23c34;
 trayCounterBgMute: #737373;
 trayCounterFg: #ffffff;
 trayCounterBgMacInvert: #f23c34;
 trayCounterFgMacInvert: #ffffff01;
-
 layerBg: #00000090;
-
 cancelIconFg: menuIconFg;
 cancelIconFgOver: menuIconFgOver;
-
 boxBg: #181818;
 boxTextFg: windowFg;
 boxTextFgGood: #4ab44a;
@@ -131,22 +111,17 @@ boxSearchBg: #101010;
 boxTitleAdditionalFg: windowBg;
 boxTitleCloseFg: cancelIconFg;
 boxTitleCloseFgOver: cancelIconFgOver;
-
 membersAboutLimitFg: windowSubTextFgOver;
-
 contactsBg: windowBg;
 contactsBgOver: #494949;
 contactsNameFg: boxTextFg;
 contactsStatusFg: windowSubTextFg;
 contactsStatusFgOver: windowSubTextFgOver;
 contactsStatusFgOnline: #ffffff;
-
 photoCropFadeBg: layerBg;
 photoCropPointFg: #ffffff;
-
 callArrowFg: #2ab32a;
 callArrowMissedFg: #dd5b4a;
-
 introBg: windowBg;
 introTitleFg: windowBoldFg;
 introDescriptionFg: windowSubTextFg;
@@ -158,7 +133,6 @@ introCoverPlaneTrace: #ffffff69;
 introCoverPlaneInner: #999999;
 introCoverPlaneOuter: #888888;
 introCoverPlaneTop: #ffffff;
-
 dialogsMenuIconFg: menuIconFg;
 dialogsMenuIconFgOver: menuIconFgOver;
 dialogsBg: windowBg;
@@ -209,22 +183,18 @@ dialogsRippleBg: windowBgRipple;
 dialogsRippleBgActive: activeButtonBgRipple;
 dialogsForwardBg: dialogsBgActive;
 dialogsForwardFg: dialogsNameFgActive;
-
 searchedBarBg: #3a3a3a;
 searchedBarFg: #a7a7a7;
 topBarBg: windowBg;
-
 emojiPanBg: windowBg;
 emojiPanCategories: windowBg;
 emojiPanHeaderFg: #ffffff;
 emojiPanHeaderBg: emojiPanBg;
 emojiIconFg: #a7a7a7;
 emojiIconFgActive: #ffffff;
-
 stickerPanDeleteBg: #ffffff00;
 stickerPanDeleteFg: #ffffff;
 stickerPreviewBg: #00000090;
-
 historyTextInFg: windowFg;
 historyTextInFgSelected: historyTextInFg;
 historyTextOutFg: windowFg;
@@ -285,7 +255,6 @@ historyScrollBarBg: #b4b4b453;
 historyScrollBarBgOver: #ffffff7a;
 historyScrollBg: #9999991a;
 historyScrollBgOver: #ffffff2c;
-
 msgInBg: #2a2a2a;
 msgInBgSelected: #555555;
 msgOutBg: #404040;
@@ -346,7 +315,6 @@ msgFile4Bg: #efc274;
 msgFile4BgDark: #e6a561;
 msgFile4BgOver: #dc9c5a;
 msgFile4BgSelected: #b19d84;
-
 historyFileInIconFg: #3a3a3a;
 historyFileInIconFgSelected: msgInBgSelected;
 historyFileInRadialFg: historyFileInIconFg;
@@ -360,7 +328,6 @@ historyFileThumbIconFgSelected: #ffffff;
 historyFileThumbRadialFg: historyFileThumbIconFg;
 historyFileThumbRadialFgSelected: historyFileThumbIconFgSelected;
 historyVideoMessageProgressFg: historyFileThumbIconFg;
-
 msgWaveformInActive: #ffffff;
 msgWaveformInActiveSelected: #999999;
 msgWaveformInInactive: #696969;
@@ -372,31 +339,26 @@ msgWaveformOutInactiveSelected: #595959;
 msgBotKbOverBgAdd: #49494995;
 msgBotKbIconFg: msgServiceFg;
 msgBotKbRippleBg: #56565695;
-
 mediaInFg: #a7a7a7;
 mediaInFgSelected: msgInDateFgSelected;
 mediaOutFg: #a7a7a7;
 mediaOutFgSelected: msgOutDateFgSelected;
-
 youtubePlayIconBg: #e83131c8;
 youtubePlayIconFg: #ffffff;
 videoPlayIconBg: #000000c8;
 videoPlayIconFg: #ffffff;
-
 toastBg: #000000b2;
 toastFg: #ffffff;
-
 reportSpamBg: #3a3a3a;
 reportSpamFg: windowFg;
-
 historyToDownBg: #252525;
 historyToDownBgOver: #494949;
 historyToDownBgRipple: #565656;
 historyToDownFg: #a7a7a7;
 historyToDownFgOver: #ffffff;
 historyToDownShadow: #00000040;
-historyComposeAreaBg: #222222;
-historyComposeAreaFg: #ffffff;
+historyComposeAreaBg: windowBg;
+historyComposeAreaFg: #f4f4f4;
 historyComposeAreaFgService: msgInDateFg;
 historyComposeIconFg: menuIconFg;
 historyComposeIconFgOver: menuIconFgOver;
@@ -410,17 +372,14 @@ historyReplyCancelFgOver: cancelIconFgOver;
 historyComposeButtonBg: historyComposeAreaBg;
 historyComposeButtonBgOver: windowBgOver;
 historyComposeButtonBgRipple: windowBgRipple;
-
 mapPointDrop: #fd4444;
 mapPointDot: #ffffff;
-
 overviewCheckBg: #00000040;
 overviewCheckBgActive: #ffffff;
 overviewCheckBorder: #a7a7a7;
 overviewCheckFg: windowBg;
 overviewCheckFgActive: #3a3a3a;
 overviewPhotoSelectOverlay: #00000040;
-
 profileStatusFgOver: #ffffff;
 profileVerifiedCheckBg: #40a7e3;
 profileVerifiedCheckFg: #ffffff;
@@ -428,23 +387,19 @@ profileAdminStartFg: #40a7e3;
 profileAdminStarFgOver: profileAdminStartFg;
 profileOtherAdminStarFg: windowSubTextFg;
 profileOtherAdminStarFgOver: windowSubTextFg;
-
 notificationsBoxMonitorFg: windowFg;
 notificationsBoxScreenBg: dialogsBgActive;
 notificationSampleUserpicFg: #252525;
-notificationSampleCloseFg: #252525; 
+notificationSampleCloseFg: #252525;
 notificationSampleTextFg: #a7a7a7;
 notificationSampleNameFg: windowBgActive;
-
 changePhoneSimcardFrom: notificationSampleTextFg;
 changePhoneSimcardTo: notificationSampleNameFg;
-
 mainMenuBg: windowBg;
 mainMenuCoverBg: windowBg;
 mainMenuCoverFg: #ffffff;
 mainMenuCloudFg: activeButtonFg;
 mainMenuCloudBg: #656565;
-
 mediaPlayerBg: #323232;
 mediaPlayerActiveFg: #ffffff;
 mediaPlayerInactiveFg: #505050;
@@ -479,9 +434,7 @@ mediaviewPlaybackIconFg: mediaviewPlaybackActive;
 mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: #ffffff;
 mediaviewTransparentFg: #cccccc;
-
 notificationBg: #181818;
-
 callBg: #3a3a3af2;
 callNameFg: #ffffff;
 callFingerprintBg: #00000066;
@@ -501,7 +454,6 @@ callBarMuteRipple: #565656;
 callBarBgMuted: #565656;
 callBarUnmuteRipple: #494949;
 callBarFg: dialogsNameFgActive;
-
 importantTooltipBg: toastBg;
 importantTooltipFg: toastFg;
 importantTooltipFgLink: mediaviewTextLinkFg;

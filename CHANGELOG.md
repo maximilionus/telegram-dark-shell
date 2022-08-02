@@ -7,6 +7,24 @@
 - [Update 2022.01.07](#update-20220107)
 
 
+## In-Dev
+### Android v3.0 Release
+#### Fixed
+- Selected text area background now displays properly
+
+#### Tweaked
+- Message input field now inherits the color from chat background (`#181818`)
+- Text selection cursor color adjusted
+
+#### Removed
+- Pinned chats custom background removed
+
+### TDesktop v2.0 Release
+#### Tweaked
+- Message input field now inherits the color from chat background (`#181818`)
+- Search bars background made more consistent with theme color set
+
+
 ## Update 2022.08.01
 ### Android v2.2 Release
 #### Fixed
