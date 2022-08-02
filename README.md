@@ -2,8 +2,8 @@
 	<h1><b>Dark Shell</b></h1><hr>Telegram Theme<br>
 	by <a href="https://github.com/maximilionus">@maximilionus</a><h>
 </div>
-
-![](img/previews/global.png)
+https://github.com/maximilionus/telegram-dark-shell/releases/download/release-202201070602/DarkShell.tgios-theme
+![](.data/img/previews/global.png)
 
 ---
 
@@ -37,7 +37,7 @@
    2. Click on sent file and press `APPLY THIS THEME` button.
 - *Using settings :*
   1. Go to **Settings** -> **Chat Settings**.
-  2. Press <img src="img/setup_guide/icon_openVerticalMenu.png" width=15> -> `Create new theme` -> `IMPORT EXISTING THEME`.
+  2. Press <img src=".data/img/setup_guide/icon_openVerticalMenu.png" width=15> -> `Create new theme` -> `IMPORT EXISTING THEME`.
   3. Find and choose downloaded `.tdesktop-theme` file.
 
 </details>
@@ -46,7 +46,7 @@
 
 1. [Download The Latest Release][macOS-latest-release] or select version from [Versions Archive](./VERSIONS_ARCHIVE.md).
 2. Open Telegram and go to `Settings` -> `Appearance`.
-3. Press <img src="img/setup_guide/icon_openHorizontalMenu.png" width=15> in upper-right corner of app and press `New theme`.
+3. Press <img src=".data/img/setup_guide/icon_openHorizontalMenu.png" width=15> in upper-right corner of app and press `New theme`.
 4. Name it **Dark Shell** *(Or how you want to)* and press `Create`.<br>You'll be asked to save the theme file. Save it anywhere *(You can delete this file after that)*.
 5. <kbd>RMB</kbd> click on created theme and click `Edit` -> `Update from file`
 6. Find and choose downloaded `.palette` file.
