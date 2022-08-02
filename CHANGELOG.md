@@ -1,5 +1,13 @@
 # Dark Shell - Changelog
 
+## Update In-Dev
+### TDesktop 2.1 Release
+#### Tweaked
+- Media player bar background color adjusted to match title bar color
+#### Fixed
+- Search/Filter input field background color now matches the color scheme
+
+
 ## Update 2022.08.02
 ### Android v3.0 Release
 #### Fixed
