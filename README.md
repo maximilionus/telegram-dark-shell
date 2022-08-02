@@ -2,7 +2,7 @@
 	<h1><b>Dark Shell</b></h1><hr>Telegram Theme<br>
 	by <a href="https://github.com/maximilionus">@maximilionus</a><h>
 </div>
-https://github.com/maximilionus/telegram-dark-shell/releases/download/release-202201070602/DarkShell.tgios-theme
+
 ![](.data/img/previews/global.png)
 
 ---
