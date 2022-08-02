@@ -1,30 +1,29 @@
-# Dark Shell Telegram theme Changelog
+# Dark Shell - Changelog
 
 ## Updates history
+- [Update 2022.08.02](#update-20220802)
 - [Update 2022.08.01](#update-20220801)
 - [Update 2022.03.18](#update-20220318)
 - [Update 2022.02.19](#update-20220219)
 - [Update 2022.01.07](#update-20220107)
 
 
-## In-Dev
+## Update 2022.08.02
 ### Android v3.0 Release
 #### Fixed
 - Selected text area background now displays properly
-
 #### Tweaked
 - Message input field now inherits the color from chat background (`#181818`)
 - Text selection cursor color adjusted
-
 #### Removed
 - Pinned chats custom background removed
 
 ### TDesktop v2.0 Release
 #### Tweaked
 - Message input field now inherits the color from chat background (`#181818`)
-- Search bars background made more consistent with theme color set
+- Search bars background now more consistent with theme color set
 
-### iOS v2.0
+### iOS v2.0 Release
 #### Tweaked
 - Message input field now inherits the color from chat background (`#181818`)
 
