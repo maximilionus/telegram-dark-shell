@@ -2,14 +2,10 @@
 	<h1><b>Dark Shell</b></h1><hr>Telegram Theme<br>
 	by <a href="https://github.com/maximilionus">@maximilionus</a><h>
 </div>
-<hr>
 
-<!-- Consider switching to raw HTML and line images by height to make it look better -->
-<!-- https://stackoverflow.com/a/45369511/9735476 -->
-|        Windows / Linux         |            macOS            |            Android            |            iOS            |
-| :----------------------------: | :-------------------------: | :---------------------------: | :-----------------------: |
-| ![](img/previews/tdesktop.jpg) | ![](img/previews/macos.jpg) | ![](img/previews/android.jpg) | ![](img/previews/ios.jpg) |
+![](img/previews/global.png)
 
+---
 
 # Table Of Contents
 - [Main Information](#main-information)
