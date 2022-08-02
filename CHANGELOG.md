@@ -24,6 +24,10 @@
 - Message input field now inherits the color from chat background (`#181818`)
 - Search bars background made more consistent with theme color set
 
+### iOS v2.0
+#### Tweaked
+- Message input field now inherits the color from chat background (`#181818`)
+
 
 ## Update 2022.08.01
 ### Android v2.2 Release

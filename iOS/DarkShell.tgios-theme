@@ -318,14 +318,14 @@ chat:
       withWp: ffffff
       withoutWp: ffffff
   inputPanel:
-    panelBg: 1c1c1c
-    panelSeparator: 1c1c1c
+    panelBg: 181818
+    panelSeparator: 181818
     panelControlAccent: 959595
     panelControl: 7f959595
     panelControlDisabled: 7f90979f
     panelControlDestructive: ff6767
-    inputBg: 1c1c1c
-    inputStroke: 1c1c1c
+    inputBg: 181818
+    inputStroke: 181818
     inputPlaceholder: 66505050
     inputText: ffffff
     inputControl: 66959595
