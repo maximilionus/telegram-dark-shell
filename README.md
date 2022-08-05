@@ -77,7 +77,7 @@ If you want to download a specific version of theme <ins>DON'T</ins> search for 
 # Development Status
 | **Platform**            | **Ready** | **Tested** | **Version** |
 | :---------------------- | :-------- | :--------- | :---------- |
-| **Windows** / **Linux** | yes       | yes        | `2.0`       |
+| **Windows** / **Linux** | yes       | yes        | `2.1`       |
 | **macOS**               | yes       | no         | `1.0`       |
 | **iOS**                 | yes       | yes        | `2.0`       |
 | **Android**             | yes       | yes        | `3.0`       |

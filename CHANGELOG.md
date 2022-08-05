@@ -1,7 +1,7 @@
 # Dark Shell - Changelog
 
-## Update In-Dev
-### TDesktop 2.1 Release
+## Update 2022.08.05
+### TDesktop v2.1 - Release
 #### Tweaked
 - Media player bar background color adjusted to match title bar color
 - Emoji bar background color tweaked to be more readable
