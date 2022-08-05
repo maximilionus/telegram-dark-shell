@@ -1,7 +1,8 @@
 # **Versions Archive**
 
 ## Windows / Linux
-- [↓`2.0`][tdesktop-latest]
+- [↓`2.1`][tdesktop-latest]
+- [↓`2.0`][tdesktop-2.0]
 - [↓`1.2`][tdesktop-1.2]
 - [↓`1.1`][tdesktop-1.1]
 - [↓`1.0`][tdesktop-1.0]
@@ -27,6 +28,7 @@
 [tdesktop-1.0]: https://github.com/maximilionus/telegram-dark-shell/releases/download/build-190420202035/DarkShell.tdesktop-theme (Windows/Linux 1.0 Release)
 [tdesktop-1.1]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-202202192341/DarkShell.tdesktop-theme (Windows/Linux 1.1 Release)
 [tdesktop-1.2]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-202203180444/DarkShell.tdesktop-theme (Windows/Linux 1.2 Release)
+[tdesktop-2.0]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-20220802/DarkShell.tdesktop-theme (Windows/Linux 2.0 Release)
 <!-- Telegram macOS Versions -->
 [macOS-latest]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.palette (macOS Latest Release)
 <!-- Telegram android Versions -->
