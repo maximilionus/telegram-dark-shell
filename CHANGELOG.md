@@ -4,6 +4,7 @@
 ### TDesktop 2.1 Release
 #### Tweaked
 - Media player bar background color adjusted to match title bar color
+- Emoji bar background color tweaked to be more readable
 #### Fixed
 - Search/Filter input field background color now matches the color scheme
 
