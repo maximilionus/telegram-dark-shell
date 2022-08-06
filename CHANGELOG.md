@@ -1,5 +1,19 @@
 # Dark Shell - Changelog
 
+## Nightly Update
+### Android v4.0 - Release
+#### Tweaked
+- Profile page picture button colors inverted
+- Color of attachments in the chat list is now darker, almost equal to text color
+- Chat submenu background color tweaked to lighter variant
+- Tweaked colors of message "sent check" icons to be more readable
+#### Fixed
+- Tabs bar selection color corrected to match colors scheme
+- Chat message input field cursor color now matches the color scheme
+- Chat pop-up panel background color tweaked to match color scheme
+- Chat "admin" text color adjusted to match color scheme
+
+
 ## Update 2022.08.05
 ### TDesktop v2.1 - Release
 #### Tweaked
