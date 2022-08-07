@@ -71,18 +71,20 @@
 </details>
 
 ## Download specific version
-If you want to download a specific version of theme <ins>DON'T</ins> search for it in [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases). Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md) and you'll find a table with all versions and links to them.
+If you want to download a specific version of theme <ins>DON'T</ins> search for it in [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases). Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md), and you'll find a table with all versions and links to them.
 
 
 # Development Status
-| **Platform**            | **Ready** | **Tested** | **Version** |
-| :---------------------- | :-------- | :--------- | :---------- |
-| **Windows** / **Linux** | yes       | yes        | `2.1`       |
-| **macOS**               | yes       | no         | `1.0`       |
-| **iOS**                 | yes       | yes        | `2.0`       |
-| **Android**             | yes       | yes        | `3.0`       |
+| Platform                | Version | Tested[^1] | Maintained[^2] |
+| :---------------------- | :-----: | :--------: | :------------: |
+| **Windows** / **Linux** |  `2.2`  |    Yes     |      Yes       |
+| **macOS**               |  `1.0`  |     No     |       No       |
+| **iOS**                 |  `2.0`  |    Yes     |      Yes       |
+| **Android**             |  `4.0`  |    Yes     |      Yes       |
 
-> If you've tested this theme on non-tested platform, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
+<!-- Footnotes -->
+[^1]: Have most of the interface elements been checked and theme is actively used by author. If you've tested this theme on non-tested platform, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
+[^2]: Is theme for this platform currently in active development
 
 <!-- REFERENCE LINKS -->
 [telegram-theme-shared-link]: https://t.me/addtheme/DarkShell (Telegram Theme Shared Link)
