@@ -17,7 +17,7 @@
 
 
 # Main Information
-**Dark Shell** is a minimalistic, dark color theme for Telegram clients on Windows, Linux, macOS, iOS and Android platforms. This repository contains all source files and releases for this theme.
+**Dark Shell** is a minimalistic dark theme for Telegram clients on Windows, Linux, macOS, iOS and Android platforms. This repository contains all source files and releases for this theme.
 
 
 # Installation
