@@ -1,5 +1,12 @@
 # Dark Shell - Changelog
 
+
+## Development Branch
+### Android
+#### Fixed
+- Chat list online circle color tweaked to white from green
+
+
 ## Update 2022.08.07 "Nachtstern"
 Overhaul update for Android theme and some minor tweaks for Windows/Linux
 ### Android v4.0 - Release
