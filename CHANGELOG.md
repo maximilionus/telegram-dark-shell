@@ -6,6 +6,10 @@
 #### Fixed
 - Chat list online circle color tweaked to white from green
 
+### Desktop
+#### Fixed
+- Tooltip background and border colors tweaked to dark
+
 
 ## Update 2022.08.07 "Nachtstern"
 Overhaul update for Android theme and some minor tweaks for Windows/Linux
