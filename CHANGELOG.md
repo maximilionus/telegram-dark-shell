@@ -4,7 +4,9 @@
 ## Development Branch
 ### Android
 #### Fixed
-- Chat list online circle color tweaked to white from green
+- Chat list
+  - Mention icon color fix by [@kirzidev](https://github.com/kirizdev)
+  - Online circle color tweaked to white from green
 
 ### Desktop
 #### Fixed
