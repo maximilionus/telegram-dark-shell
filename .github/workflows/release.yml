@@ -1,4 +1,4 @@
-name: release tasks
+name: Release tasks
 
 on:
   release:
@@ -7,8 +7,8 @@ on:
 
 jobs:
   attach_theme_files:
-    name: attach theme files to release
-    runs-on: "ubuntu-18.04"
+    name: Attach theme files to release
+    runs-on: "ubuntu-latest"
     env:
       release_dir_path: "./release_files"
       tdesktop_theme_path: "./TDesktop/DarkShell.tdesktop-theme"
@@ -17,7 +17,7 @@ jobs:
       macos_theme_path: "./macOS/DarkShell.palette"
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: create dir for all files
         run: mkdir $release_dir_path
@@ -27,7 +27,7 @@ jobs:
           mv -v -t $release_dir_path $tdesktop_theme_path $android_theme_path $ios_theme_path $macos_theme_path
 
       - name: attach files to release
-        uses: AButler/upload-release-assets@v2.0
+        uses: AButler/upload-release-assets@v2.0.2
 
         with:
           files: "${{ env.release_dir_path }}/*"
