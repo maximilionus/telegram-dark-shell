@@ -1,19 +1,11 @@
 <div align="center">
 	<h1><b>Dark Shell</b></h1><hr>Telegram Theme<br>
-	by <a href="https://github.com/maximilionus">@maximilionus</a><h>
+	by <a href="https://github.com/maximilionus">@maximilionus</a> and <a href="#contributors">contributors</a><h>
 </div>
 
 ![](.data/img/previews/global.png)
 
 ---
-
-# Table Of Contents
-- [About](#about)
-- [Installation](#installation)
-  - [Universal](#universal)
-  - [Manual Install](#manual-install)
-  - [Download specific version](#download-specific-version)
-- [Development Status](#development-status)
 
 
 # About
@@ -71,20 +63,27 @@
 </details>
 
 ## Download specific version
-If you want to download a specific version of theme <ins>DON'T</ins> search for it in [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases). Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md), and you'll find a table with all versions and links to them.
+If you want to download a specific version of this theme <ins>DO NOT</ins> search for it in [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases). Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md) where you'll find a table containing all versions of this theme along with their respective download links.
 
 
 # Development Status
 | Platform                | Version | Tested[^1] | Maintained[^2] |
 | :---------------------- | :-----: | :--------: | :------------: |
-| **Windows** / **Linux** |  `2.2`  |    Yes     |      Yes       |
+| **Windows** / **Linux** |  `2.3`  |    Yes     |      Yes       |
 | **macOS**               |  `1.0`  |     No     |       No       |
 | **iOS**                 |  `2.0`  |    Yes     |      Yes       |
-| **Android**             |  `4.0`  |    Yes     |      Yes       |
+| **Android**             |  `4.1`  |    Yes     |      Yes       |
+
+
+# Contributors
+I am grateful to all the people who have made a contribution of any size to this project. **Thank you**!
+
+- [@kirzidev](https://github.com/kirizdev)
+
 
 <!-- Footnotes -->
-[^1]: Have most of the interface elements been checked and theme is actively used by author. If you've tested this theme on non-tested platform, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
-[^2]: Is theme for this platform currently in active development
+[^1]: Whether most of the interface elements have been checked and whether the theme is actively being used by the author. If you have tested this theme on a platform that has not been tested, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
+[^2]: Whether the theme for this platform currently in active development
 
 <!-- REFERENCE LINKS -->
 [telegram-theme-shared-link]: https://t.me/addtheme/DarkShell (Telegram Theme Shared Link)

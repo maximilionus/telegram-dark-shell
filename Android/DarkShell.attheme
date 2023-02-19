@@ -95,6 +95,7 @@ featuredStickers_addButtonPressed=-11119018
 chat_inContactPhoneSelectedText=-13683656
 dialogSearchText=-14540254
 chat_shareBackgroundSelected=-1720545370
+actionBarTabUnactiveText=-8487298
 chat_outAudioTitleText=-1
 chat_emojiPanelStickerSetNameIcon=-5789785
 chat_emojiPanelBackground=-15198184
@@ -405,7 +406,7 @@ chats_verifiedBackground=-12539933
 chat_inTimeSelectedText=-6710887
 chat_outFileBackgroundSelected=-11184811
 chat_outVoiceSeekbarSelected=-10921639
-chats_mentionIcon=-1
+chats_mentionIcon=-12961222
 windowBackgroundWhiteGrayIcon=-1
 avatar_backgroundActionBarViolet=-15198184
 actionBarDefaultTitle=-723724
@@ -645,8 +646,9 @@ chat_serviceText=-723724
 chat_emojiPanelMasksIcon=-5789785
 chats_attachMessage=-5592406
 chat_topPanelBackground=-14540254
+avatar_text=-1
 chat_searchPanelText=-1
 chat_outSentClock=-1
 dialogBackgroundGray=-921103
 chat_inContactIcon=-14013910
-WLS=https://attheme.org?slug=ZCuHthyikUjFAQAA2r8yieB3xVU
+WLS=https://attheme.org?slug=ZCuHthyikUjFAQAA2r8yieB3xVU&id=5229138883496640965

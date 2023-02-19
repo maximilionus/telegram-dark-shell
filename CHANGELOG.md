@@ -1,5 +1,25 @@
 # Dark Shell - Changelog
 
+
+## Update 2023.02.19 "Welle"
+
+**Summary**
+This small update is aimed at fixing existing issues and making minor improvements towards readability
+
+### Android v4.1
+#### Fixed
+- Chat list
+  - Mention icon color fix by [@kirzidev](https://github.com/kirizdev)
+  - Online status icon color tweaked to white from green
+
+### TDesktop v2.3
+#### Fixed
+- Tooltip background and border colors tweaked to dark
+- Chat list: Saved messages icon gradient fixed to solid color
+#### Tweaked
+- Notification pop-up background color changed to lighter values to improve readability
+
+
 ## Update 2022.08.07 "Nachtstern"
 Overhaul update for Android theme and some minor tweaks for Windows/Linux
 ### Android v4.0 - Release
