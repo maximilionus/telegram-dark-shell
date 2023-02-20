@@ -1,6 +1,12 @@
 # Dark Shell - Changelog
 
 
+## Development
+### Android
+#### Fixed
+- Chat list: Online status icon fixed again
+
+
 ## Update 2023.02.19 "Welle"
 
 **Summary**
