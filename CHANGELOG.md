@@ -6,6 +6,10 @@
 #### Fixed
 - Chat list: Online status icon fixed again
 
+### TDesktop
+#### Fixed
+- Chat background image color tweaked to match the overall scheme
+
 
 ## Update 2023.02.19 "Welle"
 
