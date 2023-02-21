@@ -1,20 +1,24 @@
 # Dark Shell - Changelog
 
 
-## Development
-### Android
+## Update 2023.02.21 "Neue Welle"
+
+> **Summary**
+> This release contains various patches for the previous update
+
+### Android 4.2
 #### Fixed
 - Chat list: Online status icon fixed again
 
-### TDesktop
+### TDesktop 2.4
 #### Fixed
 - Chat background image color tweaked to match the overall scheme
 
 
 ## Update 2023.02.19 "Welle"
 
-**Summary**
-This small update is aimed at fixing existing issues and making minor improvements towards readability
+> **Summary**
+> This small update is aimed at fixing existing issues and making minor improvements towards readability
 
 ### Android v4.1
 #### Fixed
