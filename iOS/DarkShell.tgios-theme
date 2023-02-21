@@ -177,8 +177,8 @@ chat:
           stroke: 212121
       primaryText: ffffff
       secondaryText: 7f959595
-      linkText: 08f6e7
-      linkHighlight: 058078
+      linkText: 659dbe
+      linkHighlight: 4f7a94
       scam: ff6767
       textHighlight: ffe438
       accentText: 959595
@@ -225,8 +225,8 @@ chat:
           stroke: 303030
       primaryText: ffffff
       secondaryText: 7f959595
-      linkText: 08f6e7
-      linkHighlight: 058078
+      linkText: 659dbe
+      linkHighlight: 4f7a94
       scam: ff6767
       textHighlight: ffe438
       accentText: ffffff

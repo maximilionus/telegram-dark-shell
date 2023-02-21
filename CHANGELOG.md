@@ -1,6 +1,13 @@
 # Dark Shell - Changelog
 
 
+## Development
+
+### iOS
+#### Tweaked
+- Links color tweaked to `#659dbe` and `#4f7a94`
+
+
 ## Update 2023.02.21 "Neue Welle"
 
 > **Summary**
