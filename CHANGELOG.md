@@ -3,6 +3,10 @@
 
 ## Development
 
+### Android
+#### Fixed
+- Forwarded message hidden user dialog background and text colors fix by [@kirizdev](https://github.com/kirizdev) (#12)
+
 ### iOS
 #### Tweaked
 - Links color tweaked to `#659dbe` and `#4f7a94`
@@ -30,7 +34,7 @@
 ### Android v4.1
 #### Fixed
 - Chat list
-  - Mention icon color fix by [@kirzidev](https://github.com/kirizdev)
+  - Mention icon color fix by [@kirizdev](https://github.com/kirizdev) (#11)
   - Online status icon color tweaked to white from green
 
 ### TDesktop v2.3
