@@ -78,7 +78,7 @@ If you want to download a specific version of this theme <ins>DO NOT</ins> searc
 # Contributors
 I am grateful to all the people who have made a contribution of any size to this project. **Thank you**!
 
-- [@kirzidev](https://github.com/kirizdev)
+- [@kirizdev](https://github.com/kirizdev)
 
 
 <!-- Footnotes -->
