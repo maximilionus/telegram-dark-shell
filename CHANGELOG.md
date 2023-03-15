@@ -6,6 +6,9 @@
 ### Android
 #### Fixed
 - Forwarded message hidden user dialog background and text colors fix by [@kirizdev](https://github.com/kirizdev) (#12)
+- Active radio button icon color fix fix by [@kirizdev](https://github.com/kirizdev) (#13)
+- Emoji suggestion pop-up background color fix by [@kirizdev](https://github.com/kirizdev) (#13)
+- "Add {name} to contacts" button text color fix by [@kirizdev](https://github.com/kirizdev) (#13)
 
 ### iOS
 #### Tweaked
