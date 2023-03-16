@@ -1,6 +1,6 @@
 name: Dark Shell
 basedOn: nighttinted
-dark: false
+dark: true
 intro:
   statusBar: white
   primaryText: ffffff
@@ -33,6 +33,7 @@ root:
     control: 575757
     accentText: 959595
     background: 181818
+    opaqueBackground: 181818
     separator: 181818
     badgeFill: ef5b5b
     badgeStroke: ef5b5b
@@ -118,12 +119,19 @@ list:
     color1: 2ea6ff
     color2: 7fdbf5ff
     color3: 3d4754
+  itemInputField:
+    bg: 181818
+    stroke: 181818
+    placeholder: 898989
+    primary: ffffff
+    control: 898989
 chatList:
   bg: 181818
   itemSeparator: 303030
   itemBg: 181818
   pinnedItemBg: 202020
   itemHighlightedBg: 303030
+  pinnedItemHighlightedBg: 303030
   itemSelectedBg: 454545
   title: ffffff
   secretTitle: 00619eff
@@ -141,6 +149,7 @@ chatList:
   unreadBadgeActiveText: ffffff
   unreadBadgeInactiveBg: 66959595
   unreadBadgeInactiveText: 1a1a1a
+  reactionBadgeActiveBg: ff2d55
   pinnedBadge: 7f959595
   pinnedSearchBar: 1c1c1c
   regularSearchBar: 111111
@@ -162,6 +171,7 @@ chatList:
   onlineDot: 4cc91f
 chat:
   defaultWallpaper: ff181818
+  animateMessageColors: false
   message:
     incoming:
       bubble:
@@ -170,11 +180,23 @@ chat:
           gradientBg: 212121
           highlightedBg: 212121
           stroke: 212121
+          reactionInactiveBg: 11ffffff
+          reactionInactiveFg: ffffff
+          reactionActiveBg: ffffff
+          reactionActiveFg: 181818
+          reactionInactiveMediaPlaceholder: 19000000
+          reactionActiveMediaPlaceholder: 19000000
         withoutWp:
           bg: 212121
           gradientBg: 212121
           highlightedBg: 212121
           stroke: 212121
+          reactionInactiveBg: 11ffffff
+          reactionInactiveFg: ffffff
+          reactionActiveBg: ffffff
+          reactionActiveFg: 181818
+          reactionInactiveMediaPlaceholder: 19000000
+          reactionActiveMediaPlaceholder: 19000000
       primaryText: ffffff
       secondaryText: 7f959595
       linkText: 659dbe
@@ -218,11 +240,23 @@ chat:
           gradientBg: 303030
           highlightedBg: 303030
           stroke: 303030
+          reactionInactiveBg: 19ffffff
+          reactionInactiveFg: ffffff
+          reactionActiveBg: ffffff
+          reactionActiveFg: clear
+          reactionInactiveMediaPlaceholder: 19000000
+          reactionActiveMediaPlaceholder: 19000000
         withoutWp:
           bg: 303030
           gradientBg: 303030
           highlightedBg: 303030
           stroke: 303030
+          reactionInactiveBg: 19ffffff
+          reactionInactiveFg: ffffff
+          reactionActiveBg: ffffff
+          reactionActiveFg: clear
+          reactionInactiveMediaPlaceholder: 19000000
+          reactionActiveMediaPlaceholder: 19000000
       primaryText: ffffff
       secondaryText: 7f959595
       linkText: 659dbe
@@ -265,11 +299,23 @@ chat:
         gradientBg: 252525
         highlightedBg: 252525
         stroke: 252525
+        reactionInactiveBg: 19ffffff
+        reactionInactiveFg: ffffff
+        reactionActiveBg: ffffff
+        reactionActiveFg: 181818
+        reactionInactiveMediaPlaceholder: 19000000
+        reactionActiveMediaPlaceholder: 19000000
       withoutWp:
         bg: 252525
         gradientBg: 252525
         highlightedBg: 252525
         stroke: 252525
+        reactionInactiveBg: 19ffffff
+        reactionInactiveFg: ffffff
+        reactionActiveBg: ffffff
+        reactionActiveFg: 181818
+        reactionInactiveMediaPlaceholder: 19000000
+        reactionActiveMediaPlaceholder: 19000000
     infoPrimaryText: ffffff
     infoLinkText: 959595
     outgoingCheck: 959595
@@ -295,6 +341,12 @@ chat:
       bg: ff6767
       fg: ffffff
     mediaHighlightOverlay: 99ffffff
+    stickerPlaceholder:
+      withWp: 7f181818
+      withoutWp: 7f181818
+    stickerPlaceholderShimmer:
+      withWp: 0cffffff
+      withoutWp: 0cffffff
   serviceMessage:
     components:
       withDefaultWp:
@@ -342,6 +394,18 @@ chat:
     panelSeparator: 1f1f1f
     panelIcon: 7f959595
     panelHighlightedIconBg: 161616
+    panelHighlightedIcon: ace7e7e7
+    panelContentVibrantOverlay: 7fdbdbdb
+    panelContentControlVibrantOverlay: 4cdbdbdb
+    panelContentControlVibrantSelection: 19dbdbdb
+    panelContentControlOpaqueOverlay: 19dbdbdb
+    panelContentControlOpaqueSelection: 19dbdbdb
+    panelContentVibrantSearchOverlay: 7fdbdbdb
+    panelContentVibrantSearchOverlaySelected: 7fdbdbdb
+    panelContentVibrantSearchOverlayHighlight: 19dbdbdb
+    panelContentOpaqueSearchOverlay: 7fdbdbdb
+    panelContentOpaqueSearchOverlaySelected: 7fdbdbdb
+    panelContentOpaqueSearchOverlayHighlight: 19dbdbdb
     stickersBg: 1f1f1f
     stickersSectionText: 7f959595
     stickersSearchBg: 161616
@@ -349,10 +413,12 @@ chat:
     stickersSearchPrimary: ffffff
     stickersSearchControl: 575757
     gifsBg: 1f1f1f
+    bg: bf181818
   inputButtonPanel:
     panelBg: 131313
     panelSeparator: 252525
     buttonBg: 383838
+    buttonHighlight: 33ffffff
     buttonStroke: 0a0a0a
     buttonHighlightedBg: b2383838
     buttonHighlightedStroke: 0a0a0a
