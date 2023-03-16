@@ -19,14 +19,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: create dir for all files
+      - name: Prepare fs
         run: mkdir $release_dir_path
 
-      - name: move theme files to release dir
+      - name: Move files
         run: |
           mv -v -t $release_dir_path $tdesktop_theme_path $android_theme_path $ios_theme_path $macos_theme_path
 
-      - name: attach files to release
+      - name: Attach to release
         uses: AButler/upload-release-assets@v2.0.2
 
         with:
