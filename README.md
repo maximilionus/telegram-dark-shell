@@ -71,8 +71,8 @@ If you want to download a specific version of this theme <ins>DO NOT</ins> searc
 | :---------------------- | :-----: | :--------: | :------------: |
 | **Windows** / **Linux** |  `2.4`  |    Yes     |      Yes       |
 | **macOS**               |  `1.0`  |     No     |       No       |
-| **iOS**                 |  `2.0`  |    Yes     |      Yes       |
-| **Android**             |  `4.2`  |    Yes     |      Yes       |
+| **iOS**                 |  `3.0`  |    Yes     |      Yes       |
+| **Android**             |  `4.3`  |    Yes     |      Yes       |
 
 
 # Contributors

@@ -1,23 +1,30 @@
 # Dark Shell - Changelog
 
 
-## Development
+## Update 2023.03.16 "Blutenmeer"
 
-### Android
+> **Summary**  
+> Major update for **iOS** platform and various fixes for **Android** *(by [@kirizdev](https://github.com/kirizdev))*
+
+### iOS 3.0
 #### Fixed
-- Forwarded message hidden user dialog background and text colors fix by [@kirizdev](https://github.com/kirizdev) (#12)
-- Active radio button icon color fix fix by [@kirizdev](https://github.com/kirizdev) (#13)
-- Emoji suggestion pop-up background color fix by [@kirizdev](https://github.com/kirizdev) (#13)
-- "Add {name} to contacts" button text color fix by [@kirizdev](https://github.com/kirizdev) (#13)
-
-### iOS
+- GIF, Stickers and Emoji chat panel background and placeholder colors now match the color scheme
+- Pinned chat background (inactive and selected) now match the color scheme
+- Reactions foreground and background colors now match the color scheme
 #### Tweaked
 - Links color tweaked to `#659dbe` and `#4f7a94`
+
+### Android 4.3
+#### Fixed
+- Forwarded message hidden user dialog background and text colors fix by [@kirizdev](https://github.com/kirizdev) (#12)
+- Active radio button icon color fix by [@kirizdev](https://github.com/kirizdev) (#13)
+- Emoji suggestion pop-up background color fix by [@kirizdev](https://github.com/kirizdev) (#13)
+- "Add {name} to contacts" button text color fix by [@kirizdev](https://github.com/kirizdev) (#13)
 
 
 ## Update 2023.02.21 "Neue Welle"
 
-> **Summary**
+> **Summary**  
 > This release contains various patches for the previous update
 
 ### Android 4.2
@@ -31,7 +38,7 @@
 
 ## Update 2023.02.19 "Welle"
 
-> **Summary**
+> **Summary**  
 > This small update is aimed at fixing existing issues and making minor improvements towards readability
 
 ### Android v4.1
