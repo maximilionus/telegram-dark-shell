@@ -1,7 +1,7 @@
 # Dark Shell - Changelog
 
 
-## Update 2023.03.16 "Blutenmeer"
+## Update 2023.03.16 "Dammerung"
 
 > **Summary**  
 > Major update for **iOS** platform and various fixes for **Android** *(by [@kirizdev](https://github.com/kirizdev))*
