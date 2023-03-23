@@ -1,6 +1,13 @@
 # Dark Shell - Changelog
 
 
+## Development
+
+### Android
+#### Fixed
+- Bot menu icon color fix by [@kirizdev](https://github.com/kirizdev) (#15)
+
+
 ## Update 2023.03.16 "Dammerung"
 
 > **Summary**  
