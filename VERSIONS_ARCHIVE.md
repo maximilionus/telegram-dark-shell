@@ -14,7 +14,8 @@
 - [↓`1.0`][macOS-latest]
 
 ## Android
-- [↓`4.3`][android-latest]
+- [↓`4.4`][android-latest]
+- [↓`4.3`][android-v4.3]
 - [↓`4.2`][android-v4.2]
 - [↓`4.1`][android-v4.1]
 - [↓`4.0`][android-v4.0]
@@ -52,6 +53,7 @@
 [android-v4.0]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2022.08.07-nachtstern/DarkShell.attheme (Android 4.0 Release)
 [android-v4.1]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.02.19-welle/DarkShell.attheme (Android 4.1 Release)
 [android-v4.2]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.02.21-neue_welle/DarkShell.attheme (Android 4.2 Release)
+[android-v4.3]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.03.16-dammerung/DarkShell.attheme (Android 4.3 Release)
 <!-- Telegram iOS Versions -->
 [ios-latest]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.tgios-theme (ios Latest Release)
 [ios-v1.0]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/download/build-160420200147/DarkShell.tgios-theme (ios 1.0 Release)

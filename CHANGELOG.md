@@ -1,9 +1,12 @@
 # Dark Shell - Changelog
 
 
-## Development
+## Update 2023.04.26 "Dammerung-2"
 
-### Android
+> **Summary**  
+> Small fix for Android theme *(by [@kirizdev](https://github.com/kirizdev))*
+
+### Android 4.4
 #### Fixed
 - Bot menu icon color fix by [@kirizdev](https://github.com/kirizdev) (#15)
 

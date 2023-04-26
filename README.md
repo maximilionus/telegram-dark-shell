@@ -67,12 +67,12 @@ If you want to download a specific version of this theme <ins>DO NOT</ins> searc
 
 
 # Development Status
-| Platform                | Version | Tested[^1] | Client Tested[^2] |
-| :---------------------- | :-----: | :--------: | :---------------: |
-| **Windows** / **Linux** |  `2.4`  |    Yes     |      `4.7.1`      |
-| **macOS**               |  `1.0`  |     No     |       `N/A`       |
-| **iOS**                 |  `3.0`  |    Yes     |      `9.5.4`      |
-| **Android**             |  `4.3`  |    Yes     |      `9.5.6`      |
+| Platform                | Version | Tested | Client  |
+| :---------------------- | :-----: | :----: | :-----: |
+| **Windows** / **Linux** |  `2.4`  |  Yes   | `4.8.1` |
+| **macOS**               |  `1.0`  |   No   |  `N/A`  |
+| **iOS**                 |  `3.0`  |  Yes   | `9.6.1` |
+| **Android**             |  `4.4`  |  Yes   | `9.6.2` |
 
 
 # Contributors
@@ -80,10 +80,6 @@ I am grateful to all the people who have made a contribution of any size to this
 
 - [@kirizdev](https://github.com/kirizdev)
 
-
-<!-- Footnotes -->
-[^1]: Whether most of the interface elements have been checked and whether the theme is actively being used by the author. If you have tested this theme on a platform that has not been tested, please [let me know about it](https://github.com/maximilionus/Telegram-Dark-Shell/issues/new?labels=platform-tested)
-[^2]: Version of the clients on which this theme was tested. Any deviations from these versions may cause unexpected issues.
 
 <!-- REFERENCE LINKS -->
 [telegram-theme-shared-link]: https://t.me/addtheme/DarkShell (Telegram Theme Shared Link)
