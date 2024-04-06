@@ -69,10 +69,10 @@ If you want to download a specific version of this theme <ins>DO NOT</ins> searc
 # Development Status
 | Platform                | Version | Tested | Client  |
 | :---------------------- | :-----: | :----: | :-----: |
-| **Windows** / **Linux** |  `2.4`  |  Yes   | `4.8.1` |
-| **macOS**               |  `1.0`  |   No   |  `N/A`  |
-| **iOS**                 |  `3.0`  |  Yes   | `9.6.1` |
-| **Android**             |  `4.4`  |  Yes   | `9.6.2` |
+| **Windows** / **Linux** | `2.4` | Yes | `4.8.1` |
+| **macOS**               | `1.0` | Yes | `10.6.1` |
+| **iOS**                 | `3.0` | Yes | `9.6.1` |
+| **Android**             | `4.4` | Yes | `9.6.2` |
 
 
 # Contributors
