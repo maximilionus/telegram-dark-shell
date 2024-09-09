@@ -14,7 +14,7 @@
 
 # Installation
 ## Universal
-- [**Click to install** ☁️][telegram-theme-shared-link] this theme on any supported device *([list](./README.md#Development-Status))* with automatic updates feature
+- [**Click to install** ☁️][telegram-theme-shared-link] this theme on any supported device *([list](./README.md#Current-Status))* with automatic updates feature
 > All new stable features and changes will be delivered much faster and will not be bound to releases
 
 ## Manual Install
@@ -66,7 +66,7 @@
 If you want to download a specific version of this theme <ins>DO NOT</ins> search for it in [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases). Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md) where you'll find a table containing all versions of this theme along with their respective download links.
 
 
-# Development Status
+# Current Status
 | Platform                | Version | Tested | Client  |
 | :---------------------- | :-----: | :----: | :-----: |
 | **Windows** / **Linux** | `2.4` | Yes | `4.8.1` |
