@@ -92,7 +92,8 @@ links.
 # Contributors
 I am grateful to everyone who contributed to this project. **Thank you**!
 
-- [@kirizdev](https://github.com/kirizdev)
+- [kirizdev](https://github.com/kirizdev)
+- [elifian](https://github.com/elifian)
 
 
 <!-- REFERENCE LINKS -->
