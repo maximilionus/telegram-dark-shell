@@ -1,7 +1,8 @@
 # **Versions Archive**
 
 ## Windows / Linux
-- [↓`2.4`][tdesktop-latest]
+- [↓`2.5`][tdesktop-latest]
+- [↓`2.4`][tdesktop-v2.4]
 - [↓`2.3`][tdesktop-v2.3]
 - [↓`2.2`][tdesktop-v2.2]
 - [↓`2.1`][tdesktop-v2.1]
@@ -14,7 +15,8 @@
 - [↓`1.0`][macOS-latest]
 
 ## Android
-- [↓`4.4`][android-latest]
+- [↓`4.5`][android-latest]
+- [↓`4.4`][android-v4.4]
 - [↓`4.3`][android-v4.3]
 - [↓`4.2`][android-v4.2]
 - [↓`4.1`][android-v4.1]
@@ -41,6 +43,7 @@
 [tdesktop-v2.1]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2022.08.05/DarkShell.tdesktop-theme (Windows/Linux 2.1 Release)
 [tdesktop-v2.2]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2022.08.07-nachtstern/DarkShell.tdesktop-theme (Windows/Linux 2.2 Release)
 [tdesktop-v2.3]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.02.19-welle/DarkShell.tdesktop-theme (Windows/Linux 2.3 Release)
+[tdesktop-v2.4]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.04.26-dammerung-2/DarkShell.tdesktop-theme (Windows/Linux 2.4 Release)
 <!-- Telegram macOS Versions -->
 [macOS-latest]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.palette (macOS Latest Release)
 <!-- Telegram Android Versions -->
@@ -54,6 +57,7 @@
 [android-v4.1]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.02.19-welle/DarkShell.attheme (Android 4.1 Release)
 [android-v4.2]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.02.21-neue_welle/DarkShell.attheme (Android 4.2 Release)
 [android-v4.3]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.03.16-dammerung/DarkShell.attheme (Android 4.3 Release)
+[android-v4.4]: https://github.com/maximilionus/telegram-dark-shell/releases/download/release-2023.04.26-dammerung-2/DarkShell.attheme (Android 4.4 Release)
 <!-- Telegram iOS Versions -->
 [ios-latest]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/latest/download/DarkShell.tgios-theme (ios Latest Release)
 [ios-v1.0]: https://github.com/maximilionus/Telegram-Dark-Shell/releases/download/build-160420200147/DarkShell.tgios-theme (ios 1.0 Release)

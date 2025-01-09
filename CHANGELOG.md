@@ -1,6 +1,37 @@
 # Dark Shell - Changelog
 
 
+## Development "Nebelschleier"
+
+> **Summary**  
+> Huge improvements for Desktop and Android themes by
+> [@elifian](https://github.com/elifian)
+> ([#21](https://github.com/maximilionus/telegram-dark-shell/pull/21))
+
+### Android 4.5
+#### Tweaked
+- Background color of Saved Messages now matches the general background.
+- Background of Music search bar in media attachments made more consistent.
+
+#### Fixed
+- Stickers & GIF search bar background color is dark now.
+- Custom profile colors are now displayed correctly.
+- Media player background color fixed.
+- Send video button background is white now.
+- Profile emoji status (including the verified badge) is now matching the
+  overall white color.
+
+### Desktop 2.5
+#### Tweaked
+- Title bar background is now more consistent with overall color scheme,
+  matching the general background.
+
+#### Fixed
+- Custom profile colors are now displayed correctly.
+- Profile emoji status (including the verified badge) is now matching the
+  overall white color.
+
+
 ## Update 2023.04.26 "Dammerung-2"
 
 > **Summary**  
