@@ -75,22 +75,23 @@ asked to save the theme file. Save it anywhere *(You can delete this file after)
 If you want to download a specific version of this theme <ins>DO NOT</ins>
 search for it in
 [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases).
-Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md) where you'll find a
-table containing all versions of this theme along with their respective download
-links.
+Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md) where you'll find
+a table containing all versions of this theme along with their download links.
 
 
 # Current Status
 | Platform                | Version | Tested | Client  |
 | :---------------------- | :-----: | :----: | :-----: |
-| **Windows** / **Linux** | `2.4` | Yes | `4.8.1` |
+| **Windows** / **Linux** | `2.5` | Yes | `5.10.2` |
 | **macOS**               | `1.0` | Yes | `10.6.1` |
 | **iOS**                 | `3.0` | Yes | `9.6.1` |
-| **Android**             | `4.4` | Yes | `9.6.2` |
+| **Android**             | `4.5` | Yes | `11.6.1` |
 
 
 # Contributors
-I am grateful to everyone who contributed to this project. **Thank you**!
+I am grateful to all the contributors to this project. You are one of the main
+reasons this theme is staying up to date with latest versions of Telegram
+clients. **Thank you**!
 
 - [kirizdev](https://github.com/kirizdev)
 - [elifian](https://github.com/elifian)
