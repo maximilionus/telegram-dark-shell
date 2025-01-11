@@ -1,11 +1,9 @@
 <div align="center">
-	<h1><b>Dark Shell</b></h1><hr>Telegram Theme<br>
+	<h1><b>Dark Shell</b></h1>Telegram Theme<br>
 	by <a href="https://github.com/maximilionus">@maximilionus</a> and <a href="#contributors">contributors</a><h>
 </div>
 
 ![](.data/img/preview.png)
-
----
 
 
 # About
