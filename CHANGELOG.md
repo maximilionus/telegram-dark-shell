@@ -1,7 +1,7 @@
 # Dark Shell - Changelog
 
 
-## Development "Nebelschleier"
+## Update 2025.03.25 "Nebelschleier"
 
 > **Summary**  
 > Huge improvements for Desktop and Android themes by
