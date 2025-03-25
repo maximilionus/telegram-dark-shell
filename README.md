@@ -1,15 +1,16 @@
 <div align="center">
-	<h1><b>Dark Shell</b></h1>Telegram Theme<br>
-	by <a href="https://github.com/maximilionus">@maximilionus</a> and <a href="#contributors">contributors</a><h>
+    <h1><b>Dark Shell</b></h1>Telegram Theme
+    <br>
+    by <a href="https://github.com/maximilionus">@maximilionus</a> and <a href="#contributors">contributors</a>
 </div>
-
-![](.data/img/preview.png)
 
 
 # About
 **Dark Shell** is a minimalistic dark theme for Telegram clients on Windows,
-*Linux, macOS, iOS and Android platforms. This repository contains all source
-*files and releases for this theme.
+Linux, macOS, iOS and Android platforms.
+
+Previews are available on the project's
+[wiki page](https://github.com/maximilionus/telegram-dark-shell/wiki/Preview).
 
 
 # Installation
@@ -26,13 +27,13 @@ feature
 1. [Download The Latest Release][tdesktop-latest-release] or select version from
 [Versions Archive](./VERSIONS_ARCHIVE.md).
 2. Open Telegram.
-- *Using messages :*
-   1. Send the downloaded file to `Saved messages`.
-   2. Click on sent file and press `APPLY THIS THEME` button.
-- *Using settings :*
-  1. Go to **Settings** -> **Chat Settings**.
-  2. Press `⋮` -> `Create new theme` -> `IMPORT EXISTING THEME`.
-  3. Find and choose downloaded `.tdesktop-theme` file.
+- Using messages:
+    1. Send the downloaded file to `Saved messages`.
+    2. Click on sent file and press `APPLY THIS THEME` button.
+- Using settings:
+    1. Go to **Settings** -> **Chat Settings**.
+    2. Press `⋮` -> `Create new theme` -> `IMPORT EXISTING THEME`.
+    3. Find and choose downloaded `.tdesktop-theme` file.
 
 </details>
 
@@ -87,9 +88,8 @@ a table containing all versions of this theme along with their download links.
 
 
 # Contributors
-I am grateful to all the contributors to this project. You are one of the main
-reasons this theme is staying up to date with latest versions of Telegram
-clients. **Thank you**!
+I am grateful to all the contributors of this project. You are one of the main
+reasons this theme is staying up to date. **Thank you**!
 
 - [kirizdev](https://github.com/kirizdev)
 - [elifian](https://github.com/elifian)
