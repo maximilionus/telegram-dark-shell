@@ -1,24 +1,21 @@
 <div align="center">
-    <h1><b>DARK SHELL</b></h1>Telegram Theme
+    <h1><b>DARK SHELL</b></h1>
+    Minimalistic cross-platform dark theme for Telegram clients
 </div>
 
-
-# About
-**Dark Shell** is a minimalistic dark theme for Telegram clients on Windows,
-Linux, macOS, iOS and Android platforms.
-
+## Preview
 Previews are available on the project's
 [wiki page](https://github.com/maximilionus/telegram-dark-shell/wiki/Preview).
 
 
-# Installation
-## Universal
+## Installation
+### Universal
 - [**Click to install** ☁️][telegram-theme-shared-link] this theme on any
 supported device *([list](./README.md#Current-Status))* with automatic updates
 feature
 > All the new stable features and changes are delivered much faster
 
-## Manual Install
+### Manual Install
 
 <details><summary><b>&emsp;Windows & Linux</b></summary>
 
@@ -68,7 +65,7 @@ asked to save the theme file. Save it anywhere *(You can delete this file after)
 
 </details>
 
-## Download specific version
+### Download specific version
 If you want to download a specific version of this theme <ins>DO NOT</ins>
 search for it in
 [Releases](https://github.com/maximilionus/Telegram-Dark-Shell/releases).
@@ -76,7 +73,7 @@ Instead, go to the [Versions Archive](./VERSIONS_ARCHIVE.md) where you'll find
 a table containing all versions of this theme along with their download links.
 
 
-# Current Status
+## Current Status
 | Platform                | Version | Tested | Client  |
 | :---------------------- | :-----: | :----: | :-----: |
 | **Windows** / **Linux** | `2.5` | Yes | `5.10.2` |
@@ -85,7 +82,7 @@ a table containing all versions of this theme along with their download links.
 | **Android**             | `4.5` | Yes | `11.6.1` |
 
 
-# Contributors
+## Contributors
 I am grateful to all the contributors of this project. You are one of the main
 reasons this theme is staying up to date. **Thank you**!
 
