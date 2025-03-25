@@ -1,7 +1,5 @@
 <div align="center">
-    <h1><b>Dark Shell</b></h1>Telegram Theme
-    <br>
-    by <a href="https://github.com/maximilionus">@maximilionus</a> and <a href="#contributors">contributors</a>
+    <h1><b>DARK SHELL</b></h1>Telegram Theme
 </div>
 
 
